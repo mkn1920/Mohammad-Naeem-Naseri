@@ -11,7 +11,7 @@
  <h3>I am a <strong>Software Engineer</strong> and a <strong>Front-End Web Developer</strong></h3>
 
 <a href="#mkn1920">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=elegant&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
 </a>
 
 <br/>
