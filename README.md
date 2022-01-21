@@ -10,9 +10,9 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 
 <br />
 
-<p align="center">
+
 [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920)](https://github.com/anuraghazra/github-readme-stats)
-</p><br />
+
 
 
 <p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
