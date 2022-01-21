@@ -17,7 +17,7 @@
 <br/>
 
 - :seedling: &nbsp;I’m currently learning **Ful-Stack Web Development**
-- :speech_balloon: &nbsp;I like to talk about **Machine Learning### and ###JavaScript**
+- :speech_balloon: &nbsp;I like to talk about **Machine Learning** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 
 <br/>
@@ -47,6 +47,34 @@
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 ### Front-End
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" /> &emsp;
+    </td>
+    
+    <td>
+       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" /> &emsp;
+    </td>
+    <td>
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" /> &emsp;
+
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+</table>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" /> &emsp;
