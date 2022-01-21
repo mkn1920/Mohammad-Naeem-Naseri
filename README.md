@@ -50,39 +50,39 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 <table>
   <tr>
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
       <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" />
       <br/>HTML5
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" />
       <br/>CSS3
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" />Bootstrap
       <br/>
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
       <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="70" />
       <br/> Sass
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
       <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" />
       <br/> Javascript
      </td>
-     <td align="center"  width="96">
+     <td align="center"  width="96" href="#mkn1920">
        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="60" />
        <br/> jQuery
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" />
        <br/> React
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
        <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" />
        <br/> Gatsby
     </td> 
-    <td align="center"  width="96">
+    <td align="center"  width="96" href="#mkn1920">
       <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/>
       <br/> NextJS
   </td>
@@ -173,7 +173,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 </table>
 <br/>
 
-[![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=react-dark)](https://github.com/suhailkakar)
+[![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=react-dark)](https://github.com/mkn1920)
 
 [linkedin]: https://www.linkedin.com/in/mohammad-naeem-naseri-a64184206"LinkedIn"
 [twitter]: https://twitter.com/naeem_naseri"Twitter"
