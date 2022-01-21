@@ -14,14 +14,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
 </a>
 
-<br />
+<br/>
 
-      - :seedling: &nbsp;I’m currently learning **[Solidity]**
-      - :writing_hand: &nbsp;I regulary write article on my **[blog]**
-      - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
-      - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-      - :computer: &nbsp;Connect with me on **[LinkedIn]**
-      - :bird: &nbsp;Let's talk more in **[Twitter]**
+- :seedling: &nbsp;I’m currently learning **[Solidity]**
+- :writing_hand: &nbsp;I regulary write article on my **[blog]**
+- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :bird: &nbsp;Let's talk more in **[Twitter]**
 
 
 <p align="center">Connect with me on </p>
@@ -94,5 +94,6 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
 </p><br/>
 
+[![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=react-dark)](https://github.com/suhailkakar)
 
 
