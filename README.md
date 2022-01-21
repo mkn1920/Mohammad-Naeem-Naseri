@@ -161,7 +161,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 </table>
 <br/>
 
-[![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=react-dark)](https://github.com/mkn1920)
+[![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920)
 
 
 
