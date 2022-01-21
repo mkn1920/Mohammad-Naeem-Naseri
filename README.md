@@ -124,7 +124,7 @@ I work with many different technologies and languages, but my favorites are **Ja
     </td>
     <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/>
-      </br>Photoshope
+      </br>Photoshop
     <td/>
     <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> XD
@@ -155,9 +155,15 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 <table>
   <tr>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/>
+    <br/>Git
+    </td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="JSON" alt="JSON Logo" width="50"/>
+    <br/>JSON
+    </td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VS Code" alt="VS Code Logo" width="50"/>
+    <br/>VS Code
+    </td>
   </tr>
 </table>
 <br/>
