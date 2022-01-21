@@ -4,26 +4,17 @@
 [![Updated Badge](https://badges.pufler.dev/updated/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
 
-# Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
+# Hi there <img src="images/wave.gif" width="30px">, I'm Naeem
 
-I am a **Software Engineer** and a **Full-Stack Web Developer** having more than four years of extensive experience in all phases of small-scale to enterprise-scale projects.
-
-I have used many updated tools, technologies, and techniques to solve problems. I am focused on being a valuable part of any team I am on and believe in team success, growth, and team rising together.
-
-I am also passionate about **blogging** and have published numerous articles.
-
-- 🏢 &nbsp;I'm a freelance **Full-Stack Web Developer** and **Content Creator**
-- 🌱 &nbsp;I'm currently learning [Next.js](https://nextjs.org/) and [Angular](https://angular.io/)
-- 👯 &nbsp;I'm looking for open source collaboration
-- 💬 &nbsp;Ask me about **Web** and **JavaScript**, I'm happy to help
-- 📫 &nbsp;Reach me through [Twitter DMs](https://twitter.com/hassibmoddasser) or my **Email Address** on my profile
-- ⚡ &nbsp;I write code without drinking coffee
+I am a **Software Engineer** and a **Front-End Web Developer**
 
 <br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p><br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
 
