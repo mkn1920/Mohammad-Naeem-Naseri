@@ -125,7 +125,7 @@ I work with many different technologies and languages, but my favorites are **Ja
     <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/>
       </br>Photoshop
-    <td/>
+    </td>
     <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> 
       <br/>XD
