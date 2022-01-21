@@ -10,7 +10,7 @@
  <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem </h1>
  <h3>I am a <strong>Software Engineer</strong> and a <strong>Front-End Web Developer</strong></h3>
 
-<a href="#suhailkakar-title">
+<a href="#mkn1920">
   <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
 </a>
 
@@ -24,9 +24,9 @@
 <br/>
 
 
-<p align="center">Connect with me on </p>
+<p align="left">Connect with me on </p>
 
-<p align="center">
+<p align="left">
   <a href="https://portofoliomain85611.gatsbyjs.io/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/2048px-Globe_icon.svg.png" title="Website" alt="Website" width="36" />
   </a> &ensp;
