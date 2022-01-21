@@ -11,7 +11,7 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 <br />
 
 
-[![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920)](https://github.com/anuraghazra/github-readme-stats)
+[![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=radical)](https://github.com/mkn1920/github-readme-stats)
 
 
 
