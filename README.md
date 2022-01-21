@@ -25,7 +25,7 @@ I am a **Software Engineer** and a **Front-End Web Developer**
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="38" />
   </a> &ensp;
   <a href="https://portofoliomain85611.gatsbyjs.io/">
-    <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/d1a35e06-ec86-4a7c-b0f0-b12684ce53c6.png" title="Showwcase" alt="Showwcase" width="36" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/2048px-Globe_icon.svg.png" title="Website" alt="Website" width="36" />
   </a> &ensp;
   <a href="	https://medium.com/@mkn1920">
     <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="36" />
