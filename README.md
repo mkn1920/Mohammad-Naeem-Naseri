@@ -51,7 +51,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <table>
   <tr>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" />
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" />HTML5
     </td>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" />
