@@ -37,7 +37,7 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 ### Front-End
-<p align="center">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
@@ -47,7 +47,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 ### Back-End
 
-<p align="center">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
@@ -60,7 +60,8 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
 </p>
+
 ### Tools
-<p align="center">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
 </p>
