@@ -57,7 +57,6 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
-  <img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo.png" title="Express JS" alt="ExpressJS Logo" width="70"/> &emsp;
   
 </p>
 
@@ -73,5 +72,4 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="ejs.png" title="EJS" alt="EJS Logo" width="50"/> &emsp;
 </p>
