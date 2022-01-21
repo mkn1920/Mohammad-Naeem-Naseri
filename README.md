@@ -56,7 +56,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
-  <img src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" title="SQL" alt="SQL Logo" width="56"/> &emsp;
+  <img src="https://st3.depositphotos.com/20524830/34592/v/600/depositphotos_345920402-stock-illustration-sql-database-icon-logo-design.jpg" title="SQL" alt="SQL Logo" width="70"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
   
   
