@@ -14,7 +14,6 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 <br />
 
 
-[![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats)
 
 
 <p align="center">Connect with me on </p>
@@ -85,4 +84,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-</p>
+</p><br/>
+
+[![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats)
+
