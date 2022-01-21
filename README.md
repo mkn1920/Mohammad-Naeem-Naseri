@@ -24,9 +24,6 @@
       - :bird: &nbsp;Let's talk more in **[Twitter]**
 
 
-    <!-- [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats) -->
-
-
 <p align="center">Connect with me on </p>
 
 <p align="center">
