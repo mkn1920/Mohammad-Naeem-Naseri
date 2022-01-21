@@ -1,11 +1,10 @@
 ![](images/banner.png)
 
-<p align="center">
+
 [![Visits Badge](https://badges.pufler.dev/visits/mkn1920/Mohammad-Naeem-Naseri?color=F9A826&style=for-the-badge)](https://github.com/mkn1920)
 [![Updated Badge](https://badges.pufler.dev/updated/mkn1920/Mohammad-Naeem-Naseri?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/naeem_naseri?color=F9A826&logo=twitter&style=for-the-badge)](https://twitter.com/naeem_naseri)
 [![Repos Badge](https://badges.pufler.dev/repos/mkn1920?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
-</p></br>
 
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Naeem
@@ -16,7 +15,6 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 
 
 [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats)
-
 
 
 <p align="center">Connect with me on </p>
@@ -47,9 +45,9 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="60" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="60" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" /> &emsp;
-  <img src="https://https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="57" /> &emsp;
-  <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="60" /> &emsp;
-  <img src="https://https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
 </p>
 
