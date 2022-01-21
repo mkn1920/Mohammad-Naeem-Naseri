@@ -7,14 +7,29 @@
 [![Repos Badge](https://badges.pufler.dev/repos/mkn1920?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
 
 
-# Hi there <img src="images/wave.gif" width="30px">, I'm Naeem
+<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem</h1>
 
 I am a **Software Engineer** and a **Front-End Web Developer**
 
 <br />
 
-
-
+<table>
+  <tr>
+    <td>
+      <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem</h1>
+      - :office: &nbsp;I'm currently working at **Nordstone UK**
+      - :seedling: &nbsp;I’m currently learning **[Solidity]**
+      - :writing_hand: &nbsp;I regulary write article on my **[blog]**
+      - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+      - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+      - :computer: &nbsp;Connect with me on **[LinkedIn]**
+      - :bird: &nbsp;Let's talk more in **[Twitter]**
+    </td>
+    <td>
+    [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats)
+    </td>
+  </tr>
+</table>
 
 <p align="center">Connect with me on </p>
 
@@ -86,5 +101,5 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
 </p><br/>
 
-[![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats)
+
 
