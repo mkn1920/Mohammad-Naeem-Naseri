@@ -3,7 +3,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/mkn1920/mkn1920?color=2D9CDB&style=for-the-badge)](https://github.com/mkn1920)
 [![Updated Badge](https://badges.pufler.dev/updated/mkn1920/mkn1920?color=2D9CDB&style=for-the-badge)](https://github.com/mkn1920)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/naeem_naseri)
-[![Repos Badge](https://badges.pufler.dev/repos/mkn1920)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/mkn1920?color=2D9CDB&style=for-the-badge)](https://badges.pufler.dev)
 # Hi there <img src="images/wave.gif" width="30px">, I'm Naeem
 
 I am a **Software Engineer** and a **Front-End Web Developer**
