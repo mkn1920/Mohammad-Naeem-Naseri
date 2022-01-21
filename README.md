@@ -1,8 +1,8 @@
 ![](images/banner.png)
 
-[![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
-[![Updated Badge](https://badges.pufler.dev/updated/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
-[![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
+[![Visits Badge](https://badges.pufler.dev/visits/mkn1920?color=2D9CDB&style=for-the-badge)](https://github.com/mkn1920)
+[![Updated Badge](https://badges.pufler.dev/updated/mkn1920/mkn1920?color=2D9CDB&style=for-the-badge)](https://github.com/mkn1920)
+[![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/naeem_naseri)
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Naeem
 
