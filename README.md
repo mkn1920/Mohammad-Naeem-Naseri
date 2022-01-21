@@ -24,19 +24,19 @@
 <br/>
 
 
-<p align="left">Connect with me on </p>
+<p align="left">Connect with me on:</p>
 
 <p align="left">
-  <a href="https://portofoliomain85611.gatsbyjs.io/">
+  <a href="https://portofoliomain85611.gatsbyjs.io/"  target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/2048px-Globe_icon.svg.png" title="Website" alt="Website" width="36" />
   </a> &ensp;
-  <a href="https://linkedin.com/in/mohammad-naeem-naseri-a64184206">
+  <a href="https://linkedin.com/in/mohammad-naeem-naseri-a64184206" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="Linkedin Account" width="36" />
   </a> &ensp;
-  <a href="https://twitter.com/naeem_naseri">
+  <a href="https://twitter.com/naeem_naseri" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" title="Twitter" alt="Twitter Account" width="38" />
   </a> &ensp;
-  <a href="	https://medium.com/@mkn1920">
+  <a href="	https://medium.com/@mkn1920" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="36" />
   </a> &ensp;
 
