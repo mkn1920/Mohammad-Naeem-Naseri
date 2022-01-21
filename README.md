@@ -38,14 +38,15 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 ### Front-End
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" title="jQuery" alt="jQuery Logo" width="57" /> &emsp;
   <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" title="React JS" alt="React Logo" width="64" /> &emsp;
-  <img src="  https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" title="React JS" alt="React Logo" width="64" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" title="Gatsby" alt="Gats by Logo" width="64" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
-  
 </p>
 
 ### Back-End
@@ -57,7 +58,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 </p>
 
 ### Design
-<p align="center">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
@@ -68,9 +69,4 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  
-  
-  
-  
-  
 </p>
