@@ -33,7 +33,7 @@ I am a **Software Engineer** and a **Front-End Web Developer**
     <img src="https://cdn.worldvectorlogo.com/logos/monogram-medium.svg" title="Medium" alt="Medium Blog" width="36" />
   </a> &ensp;
 
-</p><br />
+</p><br /><br/>
 
 ## Tech Stack
 
@@ -50,7 +50,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
-</p>
+</p><br /><br/>
 
 ### Back-End
 
@@ -59,9 +59,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
   <img src="https://st3.depositphotos.com/20524830/34592/v/600/depositphotos_345920402-stock-illustration-sql-database-icon-logo-design.jpg" title="SQL" alt="SQL Logo" width="70"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
-  
-  
-</p>
+</p><br /><br/>
 
 ### Design
 
@@ -69,7 +67,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
-</p>
+</p> <br /><br/>
 
 
 ### Programming Language Exposure
@@ -78,7 +76,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="Java" alt="Java Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/> &emsp;
-</p>
+</p> <br /><br/>
 
 
 ### Other Tools Technologies
