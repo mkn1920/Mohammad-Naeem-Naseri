@@ -11,10 +11,9 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassibmoddasser&show_icons=true&theme=dracula" alt="GitHub Stats" />
+![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=radical)
 </p><br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p align="center">Connect with me on these excellent platforms; I would love to talk more</p>
 
