@@ -50,39 +50,39 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 <table>
   <tr>
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" />
       <br/>HTML5
     </td>
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" />
       <br/>CSS3
     </td>
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" />Bootstrap
       <br/>
     </td>
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="70" />
       <br/> Sass
     </td>
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" />
       <br/> Javascript
      </td>
-     <td align="center"  width="96" href="#mkn1920">
+     <td align="center"  width="96">
        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="60" />
        <br/> jQuery
     </td>
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" />
        <br/> React
     </td>
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
        <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" />
        <br/> Gatsby
     </td> 
-    <td align="center"  width="96" href="#mkn1920">
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/>
       <br/> NextJS
   </td>
@@ -105,16 +105,16 @@ I work with many different technologies and languages, but my favorites are **Ja
 ### Back-End Exposure
 <table>
   <tr>
-    <td>
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
     </td>
-    <td>
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
     </td>
-    <td>
+    <td align="center"  width="96">
       <img src="https://st3.depositphotos.com/20524830/34592/v/600/depositphotos_345920402-stock-illustration-sql-database-icon-logo-design.jpg" title="SQL" alt="SQL Logo" width="70"/>
     </td>
-    <td>
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/>
     </td>
   </tr>
@@ -132,13 +132,13 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 <table>
   <tr>
-    <td>
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/>
     </td>
-    <td>
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/>
     </td>
-    <td>
+    <td align="center"  width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/>
     </td>
   </tr>
