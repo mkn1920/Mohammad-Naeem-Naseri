@@ -75,3 +75,11 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
 </p>
+
+### Programming Language Exposure
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ Logo" width="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="Java" alt="Java Logo" width="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/> &emsp;
+  
+</p>
