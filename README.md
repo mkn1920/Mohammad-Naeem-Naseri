@@ -26,7 +26,10 @@ I am a **Software Engineer** and a **Front-End Web Developer**
       - :bird: &nbsp;Let's talk more in **[Twitter]**
     </td>
     <td>
-    [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats)
+    <a href="#suhailkakar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
+</a>
+    <!-- [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats) -->
     </td>
   </tr>
 </table>
