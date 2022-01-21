@@ -51,7 +51,7 @@ I work with many different technologies and languages, but my favorites are **Ja
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
 </p><br /><br/>
 
-### Back-End
+### Back-End Exposure
 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
