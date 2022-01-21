@@ -39,6 +39,7 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 
 I work with many different technologies and languages, but my favorites are **JavaScript**, **React.js**, **Next.js**, **Node.js**, and **Express.js**.
 ### Front-End
+
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" /> &emsp;
@@ -63,23 +64,27 @@ I work with many different technologies and languages, but my favorites are **Ja
 </p>
 
 ### Design
+
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
 </p>
 
-### Other Tools Technologies
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-</p>
 
 ### Programming Language Exposure
+
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="Java" alt="Java Logo" width="50"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/> &emsp;
-  
+</p>
+
+
+### Other Tools Technologies
+
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
 </p>
