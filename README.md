@@ -13,26 +13,20 @@ I am a **Software Engineer** and a **Front-End Web Developer**
 
 <br />
 
-<table>
-  <tr>
-    <td>
-      <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem</h1>
-      - :office: &nbsp;I'm currently working at **Nordstone UK**
+
+    <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem </h1>
       - :seedling: &nbsp;I’m currently learning **[Solidity]**
       - :writing_hand: &nbsp;I regulary write article on my **[blog]**
       - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
       - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
       - :computer: &nbsp;Connect with me on **[LinkedIn]**
       - :bird: &nbsp;Let's talk more in **[Twitter]**
-    </td>
-    <td>
-    <a href="#suhailkakar-title">
+
+<a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
 </a>
     <!-- [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats) -->
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">Connect with me on </p>
 
