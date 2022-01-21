@@ -7,11 +7,11 @@
 [![Repos Badge](https://badges.pufler.dev/repos/mkn1920?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
 
 
- <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem </h1>
+ <h1 align="left">:wave: Hello there! I'm Naeem </h1>
  <h3>I am a <strong>Software Engineer</strong> and a <strong>Front-End Web Developer</strong></h3>
 
 <a href="#mkn1920">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
 </a>
 
 <br/>
@@ -103,6 +103,7 @@ I work with many different technologies and languages, but my favorites are **Ja
 <br/>
 
 ### Back-End Exposure
+
 <table>
   <tr>
     <td align="center"  width="96">
@@ -121,13 +122,6 @@ I work with many different technologies and languages, but my favorites are **Ja
 </table>
 </br>
 
-<!-- <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
-  <img src="https://st3.depositphotos.com/20524830/34592/v/600/depositphotos_345920402-stock-illustration-sql-database-icon-logo-design.jpg" title="SQL" alt="SQL Logo" width="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/>
-</p><br /> -->
-
 ### Design
 
 <table>
@@ -142,13 +136,7 @@ I work with many different technologies and languages, but my favorites are **Ja
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/>
     </td>
   </tr>
-</table>
-<!-- <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/>
-</p><br /> -->
-
+</table><br/>
 
 ### Programming Language Exposure
 
@@ -175,7 +163,5 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 [![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=react-dark)](https://github.com/mkn1920)
 
-[linkedin]: https://www.linkedin.com/in/mohammad-naeem-naseri-a64184206"LinkedIn"
-[twitter]: https://twitter.com/naeem_naseri"Twitter"
 
 
