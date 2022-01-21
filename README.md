@@ -16,12 +16,12 @@
 
 <br/>
 
-- :seedling: &nbsp;I’m currently learning **[Solidity]**
-- :writing_hand: &nbsp;I regulary write article on my **[blog]**
-- :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
+- :seedling: &nbsp;I’m currently learning **Ful-Stack Web Development**
+- :speech_balloon: &nbsp;I like to talk about **Machine Learning### and ###JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+
+<br/>
+<br/>
 
 
 <p align="center">Connect with me on </p>
@@ -95,5 +95,8 @@ I work with many different technologies and languages, but my favorites are **Ja
 </p><br/>
 
 [![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=react-dark)](https://github.com/suhailkakar)
+
+[linkedin]: https://www.linkedin.com/in/mohammad-naeem-naseri-a64184206"LinkedIn"
+[twitter]: https://twitter.com/naeem_naseri"Twitter"
 
 
