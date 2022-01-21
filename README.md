@@ -52,30 +52,39 @@ I work with many different technologies and languages, but my favorites are **Ja
   <tr>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" />
+      <br/>HTML5
     </td>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" />
+      <br/>CSS3
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" />
+      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" />Bootstrap
+      <br/>
     </td>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="70" />
+      <br/> Sass
     </td>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" />
+      <br/> Javascript
      </td>
      <td>
        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="60" />
+       <br/> jQuery
     </td>
     <td>
        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" />
+       <br/> React
     </td>
     <td>
        <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" />
-    </td>
+       <br/> Gatsby
+    </td> 
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/>
+      <br/> NextJS
   </td>
   </tr>
 </table>
