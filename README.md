@@ -1,7 +1,11 @@
 ![](images/banner.png)
 
-[![Visits Badge](https://badges.pufler.dev/visits/mkn1920/Mohammad-Naeem-Naseri?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/mkn1920/Mohammad-Naeem-Naseri?color=F9A826&style=for-the-badge)](https://github.com/mkn1920)
 [![Updated Badge](https://badges.pufler.dev/updated/mkn1920/Mohammad-Naeem-Naseri?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
+
+[![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
+[![Updated Badge](https://badges.pufler.dev/updated/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
+
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/naeem_naseri?color=F9A826&logo=twitter&style=for-the-badge)](https://twitter.com/naeem_naseri)
 [![Repos Badge](https://badges.pufler.dev/repos/mkn1920?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
 # Hi there <img src="images/wave.gif" width="30px">, I'm Naeem
