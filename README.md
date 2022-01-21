@@ -51,45 +51,45 @@ I work with many different technologies and languages, but my favorites are **Ja
 <table>
   <tr>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" /> &emsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" />
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" /> &emsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" />
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" /> &emsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" />
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="70" /> &emsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="70" />
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" /> &emsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" />
      </td>
      <td>
-       <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="60" /> &emsp;
+       <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="60" />
     </td>
     <td>
-       <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" /> &emsp;
+       <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" />
     </td>
     <td>
-       <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" /> &emsp;
+       <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" />
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/>
   </td>
   </tr>
 </table>
 
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="70" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="60" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML5" alt="HTML5 Logo" width="55" />
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS3" alt="CSS3 Logo" width="55" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="75" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" title="Sass" alt="Sass Logo" width="70" />
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" title="jQuery" alt="jQuery Logo" width="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React JS" alt="React Logo" width="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/>
 </p><br /><br/>
 
 ### Back-End Exposure
@@ -97,34 +97,34 @@ I work with many different technologies and languages, but my favorites are **Ja
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
-  <img src="https://st3.depositphotos.com/20524830/34592/v/600/depositphotos_345920402-stock-illustration-sql-database-icon-logo-design.jpg" title="SQL" alt="SQL Logo" width="70"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/> &emsp;
+  <img src="https://st3.depositphotos.com/20524830/34592/v/600/depositphotos_345920402-stock-illustration-sql-database-icon-logo-design.jpg" title="SQL" alt="SQL Logo" width="70"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" title="MySQL" alt="MySQL Logo" width="56"/>
 </p><br />
 
 ### Design
 
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="34"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" title="Adobe Photoshop" alt="Adobe Photoshop Logo" width="55"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" title="Adobe XD" alt="Adobe XD Logo" width="55"/>
 </p> <br />
 
 
 ### Programming Language Exposure
 
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="Java" alt="Java Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C++" alt="C++ Logo" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" title="Java" alt="Java Logo" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python Logo" width="50"/>
 </p> <br />
 
 
 ### Other Tools Technologies
 
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/json.svg" title="Git" alt="Git Logo" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="Git" alt="Git Logo" width="50"/>
 </p><br/>
 
 [![Naeem's github activity graph](https://activity-graph.herokuapp.com/graph?username=mkn1920&theme=react-dark)](https://github.com/suhailkakar)
