@@ -7,14 +7,15 @@
 [![Repos Badge](https://badges.pufler.dev/repos/mkn1920?color=F9A826&style=for-the-badge)](https://badges.pufler.dev)
 
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem</h1>
+ <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem </h1>
+ <h3>I am a <strong>Software Engineer</strong> and a <strong>Front-End Web Developer</strong></h3>
 
-I am a **Software Engineer** and a **Front-End Web Developer**
+<a href="#suhailkakar-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
+</a>
 
 <br />
 
-
-    <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Naeem </h1>
       - :seedling: &nbsp;I’m currently learning **[Solidity]**
       - :writing_hand: &nbsp;I regulary write article on my **[blog]**
       - :speech_balloon: &nbsp;I like to talk about **Web 3.0** and **JavaScript**
@@ -22,9 +23,7 @@ I am a **Software Engineer** and a **Front-End Web Developer**
       - :computer: &nbsp;Connect with me on **[LinkedIn]**
       - :bird: &nbsp;Let's talk more in **[Twitter]**
 
-<a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkn1920&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Naeem" align="right" />
-</a>
+
     <!-- [![Naeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkn1920&theme=gruvbox)](https://github.com/mkn1920/github-readme-stats) -->
 
 
