@@ -24,7 +24,7 @@
 <br/>
 
 
-<p align="left">Connect with me on:</p>
+<p align="left">Connect with me via:</p>
 
 <p align="left">
   <a href="https://portofoliomain85611.gatsbyjs.io/"  target="_blank">
