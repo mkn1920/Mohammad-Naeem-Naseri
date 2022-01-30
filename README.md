@@ -16,7 +16,7 @@
 
 <br/>
 
-- :seedling: &nbsp;I’m currently learning **Ful-Stack Web Development**
+- :seedling: &nbsp;I’m currently learning **Full-Stack Web Development**
 - :speech_balloon: &nbsp;I like to talk about **Machine Learning** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 
