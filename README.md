@@ -99,7 +99,7 @@ I work with many different technologies and languages, but my favorites are **Ja
       <br/>NodeJS
     </td>
     <td align="center"  width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style= "filter:grayscale(100%)" title="MongoDB" alt="MongoDB Logo" width="64"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="filter:grayscale(100%);" title="MongoDB" alt="MongoDB Logo" width="64"/>
       <br/>Mongodb
     </td>
     <td align="center"  width="96">
