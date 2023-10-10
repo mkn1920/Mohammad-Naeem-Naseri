@@ -82,10 +82,6 @@ I work with many different technologies and languages, but my favorites are **Ja
        <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" title="Gatsby" alt="Gats by Logo" width="60" />
        <br/> Gatsby
     </td> 
-    <td align="center"  width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next JS" alt="Next JS Logo" width="60"/>
-      <br/> NextJS
-  </td>
   </tr>
 </table>
 <br/>
@@ -94,14 +90,6 @@ I work with many different technologies and languages, but my favorites are **Ja
 
 <table>
   <tr>
-    <td align="center"  width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/>
-      <br/>NodeJS
-    </td>
-    <td align="center"  width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="filter:grayscale(100%);" title="MongoDB" alt="MongoDB Logo" width="64"/>
-      <br/>Mongodb
-    </td>
     <td align="center"  width="96">
       <img src="https://st3.depositphotos.com/20524830/34592/v/600/depositphotos_345920402-stock-illustration-sql-database-icon-logo-design.jpg" title="SQL" alt="SQL Logo" width="70"/>
       <br/>SQL
